@@ -1,0 +1,94 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&family=Roboto:wght@700&display=swap');
+
+.main {
+    margin: -26px;
+}
+
+.container {
+    background-color: rgb(28, 169, 219);
+    width: 980px;
+    height: 676px;
+    margin: 0px auto;
+}
+
+.header {
+    color: white;
+    font-family: 'Lisu Bosa', serif;
+    text-align: center;
+    font-size: larger;
+    letter-spacing: normal;
+    padding: 20px;
+    font-weight: 500;
+}
+
+.up-line {
+    margin-left: 50px;
+    margin-top: -16px;
+}
+
+.first-card {
+    background-color: white;
+    padding: 10px;
+    float: left;
+    width: 260px;
+    margin-left: 11px;
+    height: 196px;
+}
+
+.second-card {
+    padding: 30px;
+    float: left;
+    width: 209px;
+    margin-left: 162px;
+    height: 200px;
+}
+
+.down-line {
+    float: left;
+    padding: 10px;
+    margin-left: 38px;
+}
+
+.cards-h3 {
+    margin-left: 60px;
+    font-size: 17px;
+    color: rgb(28, 169, 219);
+    margin-top: -40px;
+    font-family: sans-serif;
+}
+
+.footer {
+    background-color: black;
+    margin-top: 497px;
+    width: 100%;
+    height: 35px;
+}
+
+.footer-paragraph {
+    color: white;
+    font-family: sans-serif;
+    font-size: 11px;
+    text-align: center;
+    padding: 24px;
+    background-color: rgb(51, 51, 51);
+}
+.cards-icon{
+    font-size: 45px;
+}
+.cards-text {
+    margin-left: 13px;
+    font-style: italic;
+    letter-spacing: normal;
+    font-family: sans-serif;
+    font-size: 15px;
+    color: grey;
+    margin-right: 16px;
+    margin-top: 35px;
+}
+img{
+    width: 44px;
+    margin-left: 5px;
+    margin-top: 12px;
+}
+
